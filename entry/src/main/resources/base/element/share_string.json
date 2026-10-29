@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "share", "value": "分享" },
+    { "name": "share_description", "value": "来自爱发电的站内链接" },
+    { "name": "share_failed", "value": "分享失败，请稍后重试" }
+  ]
+}

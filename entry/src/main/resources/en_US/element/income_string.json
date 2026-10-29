@@ -1,0 +1,320 @@
+{
+  "string": [
+    {
+      "name": "income_title",
+      "value": "My income"
+    },
+    {
+      "name": "income_overview",
+      "value": "Income overview"
+    },
+    {
+      "name": "income_refresh",
+      "value": "Refresh"
+    },
+    {
+      "name": "income_restore_cards",
+      "value": "Restore cards"
+    },
+    {
+      "name": "income_card_hidden",
+      "value": "Card hidden. Use Restore cards to bring it back."
+    },
+    {
+      "name": "income_cards_restored",
+      "value": "All income cards restored"
+    },
+    {
+      "name": "income_available_balance",
+      "value": "Available to withdraw"
+    },
+    {
+      "name": "income_balance_before_tax",
+      "value": "Balance before fees: ¥%s"
+    },
+    {
+      "name": "income_unavailable",
+      "value": "—"
+    },
+    {
+      "name": "income_cny",
+      "value": "¥%s"
+    },
+    {
+      "name": "income_total",
+      "value": "Total income"
+    },
+    {
+      "name": "income_settled",
+      "value": "Settled income"
+    },
+    {
+      "name": "income_this_month",
+      "value": "This month"
+    },
+    {
+      "name": "income_next_month",
+      "value": "Next month"
+    },
+    {
+      "name": "income_creator_share",
+      "value": "Estimated payout"
+    },
+    {
+      "name": "income_month_hint",
+      "value": "Monthly income follows calendar months, rather than the latest 31 days."
+    },
+    {
+      "name": "income_platform_fee",
+      "value": "Platform fee: ¥%s"
+    },
+    {
+      "name": "income_channel_fee",
+      "value": "Payment channel fee: ¥%s"
+    },
+    {
+      "name": "income_overview_error",
+      "value": "Income overview could not be loaded"
+    },
+    {
+      "name": "income_monthly_bills",
+      "value": "Monthly bills"
+    },
+    {
+      "name": "income_received_orders",
+      "value": "Received payments"
+    },
+    {
+      "name": "income_withdraw_history",
+      "value": "Withdrawals"
+    },
+    {
+      "name": "income_bill_month",
+      "value": "%s-%s"
+    },
+    {
+      "name": "income_supporter_count",
+      "value": "%s supporters"
+    },
+    {
+      "name": "income_no_bills",
+      "value": "No monthly income bills"
+    },
+    {
+      "name": "income_no_orders",
+      "value": "No received payments"
+    },
+    {
+      "name": "income_no_withdrawals",
+      "value": "No withdrawal history"
+    },
+    {
+      "name": "income_login_hint",
+      "value": "Sign in to view your income and bills"
+    },
+    {
+      "name": "income_supporter",
+      "value": "Supporter"
+    },
+    {
+      "name": "income_custom_support",
+      "value": "Custom support"
+    },
+    {
+      "name": "income_support_months",
+      "value": "Support duration: %s months"
+    },
+    {
+      "name": "income_plan_price",
+      "value": "Monthly plan price: ¥%s"
+    },
+    {
+      "name": "income_message",
+      "value": "Message: %s"
+    },
+    {
+      "name": "income_withdraw_order",
+      "value": "Withdrawal order: %s"
+    },
+    {
+      "name": "income_withdraw_waiting",
+      "value": "Awaiting review"
+    },
+    {
+      "name": "income_withdraw_success",
+      "value": "Completed"
+    },
+    {
+      "name": "income_withdraw_failed",
+      "value": "Withdrawal failed"
+    },
+    {
+      "name": "income_withdraw_bank_error",
+      "value": "Bank processing failed"
+    },
+    {
+      "name": "income_withdraw_transferring",
+      "value": "Transfer in progress"
+    },
+    {
+      "name": "income_withdraw_unknown",
+      "value": "Status unavailable"
+    },
+    {
+      "name": "income_plan_unavailable",
+      "value": "Plan details unavailable"
+    },
+    {
+      "name": "income_settlement_title",
+      "value": "When income is settled"
+    },
+    {
+      "name": "income_settlement_time",
+      "value": "%s/%s 10:00"
+    },
+    {
+      "name": "income_settlement_year",
+      "value": "%s"
+    },
+    {
+      "name": "income_settlement_remaining",
+      "value": "%s days %s hours until settlement"
+    },
+    {
+      "name": "income_settlement_remaining_detail_days",
+      "value": "Completes in %s hours"
+    },
+    {
+      "name": "income_settlement_remaining_detail_hours",
+      "value": "Completes in %s minutes"
+    },
+    {
+      "name": "income_settlement_due",
+      "value": "Settlement is almost complete"
+    },
+    {
+      "name": "income_settlement_day_unit",
+      "value": "days"
+    },
+    {
+      "name": "income_settlement_hour_unit",
+      "value": "hours"
+    },
+    {
+      "name": "income_settlement_minute_unit",
+      "value": "minutes"
+    },
+    {
+      "name": "income_settlement_window",
+      "value": "Settlement is in progress and should finish around 10:00"
+    },
+    {
+      "name": "income_settlement_hint",
+      "value": "Afdian settles by calendar month. Income from this month is expected to enter the withdrawable balance around 10:00 on the first day of the next month. Platform processing may affect the exact time."
+    },
+    {
+      "name": "income_creator_share_hint",
+      "value": "The payout estimate uses the platform's 6% fee. The official monthly bill takes precedence once it is available."
+    },
+    {
+      "name": "income_pending_amount",
+      "value": "Pending settlement: ¥%s"
+    },
+    {
+      "name": "income_withdraw_now",
+      "value": "Withdraw"
+    },
+    {
+      "name": "income_bill_creator_amount",
+      "value": "Payout: ¥%s"
+    },
+    {
+      "name": "income_bill_total_amount",
+      "value": "Support total: ¥%s"
+    },
+    {
+      "name": "income_today",
+      "value": "Today"
+    },
+    {
+      "name": "income_yesterday",
+      "value": "Yesterday"
+    },
+    {
+      "name": "income_last_7_days",
+      "value": "Last 7 days"
+    },
+    {
+      "name": "income_last_30_days",
+      "value": "Last 30 days"
+    },
+    {
+      "name": "income_sponsors_7_days",
+      "value": "Supporters, 7 days"
+    },
+    {
+      "name": "income_orders_7_days",
+      "value": "Support orders, 7 days"
+    },
+    {
+      "name": "income_visitors_30_days",
+      "value": "Visitors, 30 days"
+    },
+    {
+      "name": "income_history_visitors",
+      "value": "All-time visitors"
+    },
+    {
+      "name": "income_yuan",
+      "value": "CNY"
+    },
+    {
+      "name": "income_people",
+      "value": "people"
+    },
+    {
+      "name": "income_times",
+      "value": "times"
+    },
+    {
+      "name": "income_trend_title",
+      "value": "Recent income"
+    },
+    {
+      "name": "income_trend_hint",
+      "value": "Latest 14 active days"
+    },
+    {
+      "name": "income_stats_title",
+      "value": "Income stats"
+    },
+    {
+      "name": "income_stats_day",
+      "value": "Daily"
+    },
+    {
+      "name": "income_stats_week",
+      "value": "Weekly"
+    },
+    {
+      "name": "income_stats_month",
+      "value": "Monthly"
+    },
+    {
+      "name": "income_stats_empty",
+      "value": "No statistics yet"
+    },
+    {
+      "name": "income_stat_visitors",
+      "value": "Visits %s"
+    },
+    {
+      "name": "income_stat_orders",
+      "value": "%s support orders"
+    },
+    {
+      "name": "income_stat_supporters",
+      "value": "%s people"
+    }
+  ]
+}

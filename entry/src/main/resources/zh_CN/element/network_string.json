@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "route_title", "value": "优先线路" },
+    { "name": "route_hint", "value": "站点不可用时会自动尝试其他官方域名" },
+    { "name": "route_ifdian", "value": "ifdian.net" },
+    { "name": "route_afdian", "value": "afdian.com" },
+    { "name": "route_www", "value": "www.afdian.com" }
+  ]
+}

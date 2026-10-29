@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "favorites_title", "value": "我的收藏" },
+    { "name": "favorites_creators", "value": "创作者" },
+    { "name": "favorites_content", "value": "内容" },
+    { "name": "favorites_creator", "value": "收藏的创作者" },
+    { "name": "favorites_login", "value": "登录后查看收藏" },
+    { "name": "favorites_no_creators", "value": "暂无收藏的创作者" },
+    { "name": "favorites_no_content", "value": "暂无收藏的内容" },
+    { "name": "favorites_remove", "value": "取消收藏" },
+    { "name": "favorites_removed", "value": "已取消收藏" },
+    { "name": "favorites_remove_creator_confirm", "value": "取消收藏这位创作者？" },
+    { "name": "favorites_remove_post_confirm", "value": "取消收藏这篇内容？" }
+  ]
+}

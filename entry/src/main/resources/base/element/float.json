@@ -1,0 +1,47 @@
+{
+  "float": [
+    { "name": "native_title_bar_height", "value": "56vp" },
+    { "name": "title_bar_search_radius", "value": "7vp" },
+    { "name": "root_tab_bar_height", "value": "56vp" },
+    { "name": "floating_tab_bottom_gap", "value": "8vp" },
+    { "name": "floating_tab_content_clearance", "value": "96vp" },
+    { "name": "title_bar_search_height", "value": "38vp" },
+    { "name": "explore_filter_height", "value": "96vp" },
+    {
+      "name": "page_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "card_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "field_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "title_size",
+      "value": "28fp"
+    },
+    {
+      "name": "body_size",
+      "value": "16fp"
+    },
+    {
+      "name": "caption_size",
+      "value": "13fp"
+    },
+    {
+      "name": "touch_target",
+      "value": "48vp"
+    },
+    {
+      "name": "avatar_size",
+      "value": "48vp"
+    },
+    {
+      "name": "card_padding",
+      "value": "18vp"
+    }
+  ]
+}

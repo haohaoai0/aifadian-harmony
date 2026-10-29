@@ -1,0 +1,11 @@
+{
+  "string": [
+    { "name": "messages_private", "value": "私信" },
+    { "name": "messages_comments", "value": "收到的评论" },
+    { "name": "messages_likes", "value": "收到的喜欢" },
+    { "name": "messages_comment_hint", "value": "评论了你的内容" },
+    { "name": "messages_like_hint", "value": "喜欢了你的内容" },
+    { "name": "messages_no_comments", "value": "暂无收到的评论" },
+    { "name": "messages_no_likes", "value": "暂无收到的喜欢" }
+  ]
+}

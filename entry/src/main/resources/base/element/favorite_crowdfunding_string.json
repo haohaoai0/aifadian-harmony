@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "favorites_crowdfunding", "value": "众筹" },
+    { "name": "favorites_crowdfunding_count", "value": "%s 人支持" },
+    { "name": "favorites_crowdfunding_income", "value": "已筹 ¥%s" },
+    { "name": "favorites_crowdfunding_goal", "value": "目标 ¥%s" },
+    { "name": "favorites_no_crowdfunding", "value": "暂无收藏的众筹" }
+  ]
+}

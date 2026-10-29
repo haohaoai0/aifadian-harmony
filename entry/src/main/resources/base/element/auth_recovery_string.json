@@ -1,0 +1,21 @@
+{
+  "string": [
+    { "name": "auth_name", "value": "昵称" },
+    { "name": "auth_fields_required", "value": "请完整填写账号、昵称、密码和验证码，并同意协议" },
+    { "name": "auth_password_invalid", "value": "密码至少 6 位，且两次输入必须一致" },
+    { "name": "auth_code_invalid", "value": "验证码无效或已过期" },
+    { "name": "auth_reset_success", "value": "密码已重置并登录" },
+    { "name": "auth_reset_failed", "value": "密码重置失败" },
+    { "name": "register_action", "value": "注册账号" },
+    { "name": "register_title", "value": "创建爱发电账号" },
+    { "name": "register_hint", "value": "使用手机号码或邮箱注册，完成后会自动登录" },
+    { "name": "register_working", "value": "正在注册" },
+    { "name": "register_failed", "value": "注册未完成，请检查信息后重试" },
+    { "name": "forgot_password", "value": "忘记密码" },
+    { "name": "forgot_title", "value": "找回密码" },
+    { "name": "forgot_hint", "value": "验证手机号码或邮箱后即可设置新密码" },
+    { "name": "forgot_check", "value": "验证身份" },
+    { "name": "forgot_password_hint", "value": "设置新的登录密码" },
+    { "name": "forgot_reset", "value": "重置密码并登录" }
+  ]
+}

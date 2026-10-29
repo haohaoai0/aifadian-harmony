@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "creator_goal", "value": "Creator goal" },
+    { "name": "creator_goals", "value": "Creator goals" },
+    { "name": "creator_goal_amount", "value": "¥%s / ¥%s" },
+    { "name": "creator_albums_all", "value": "All posts" },
+    { "name": "creator_album", "value": "Collection" },
+    { "name": "creator_product", "value": "Product" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "profile_home_tab", "value": "Home" },
+    { "name": "profile_posts_tab", "value": "Posts" },
+    { "name": "profile_sponsors_tab", "value": "Supporters" },
+    { "name": "profile_shop_tab", "value": "Shop" },
+    { "name": "profile_all_filter", "value": "All" },
+    { "name": "profile_public_filter", "value": "Public" },
+    { "name": "profile_no_intro", "value": "No introduction yet" },
+    { "name": "profile_no_posts", "value": "No posts yet" },
+    { "name": "profile_no_sponsors", "value": "No supporter data yet" },
+    { "name": "profile_no_plans", "value": "No sponsorship plans or products yet" },
+    { "name": "profile_view_plans", "value": "View plans" },
+    { "name": "support_creator", "value": "Sponsor" }
+  ]
+}

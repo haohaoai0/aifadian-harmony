@@ -1,0 +1,320 @@
+{
+  "string": [
+    {
+      "name": "income_title",
+      "value": "我的收入"
+    },
+    {
+      "name": "income_overview",
+      "value": "收入概览"
+    },
+    {
+      "name": "income_refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "income_restore_cards",
+      "value": "恢复卡片"
+    },
+    {
+      "name": "income_card_hidden",
+      "value": "卡片已隐藏，可通过“恢复卡片”找回"
+    },
+    {
+      "name": "income_cards_restored",
+      "value": "已恢复全部收入卡片"
+    },
+    {
+      "name": "income_available_balance",
+      "value": "当前可提现"
+    },
+    {
+      "name": "income_balance_before_tax",
+      "value": "提现前余额：¥%s"
+    },
+    {
+      "name": "income_unavailable",
+      "value": "—"
+    },
+    {
+      "name": "income_cny",
+      "value": "¥%s"
+    },
+    {
+      "name": "income_total",
+      "value": "总收入"
+    },
+    {
+      "name": "income_settled",
+      "value": "已结算收入"
+    },
+    {
+      "name": "income_this_month",
+      "value": "当月收入"
+    },
+    {
+      "name": "income_next_month",
+      "value": "下月收入"
+    },
+    {
+      "name": "income_creator_share",
+      "value": "本月预计到手"
+    },
+    {
+      "name": "income_month_hint",
+      "value": "当月收入按自然月统计，与最近 31 天收入不同。"
+    },
+    {
+      "name": "income_platform_fee",
+      "value": "平台服务费：¥%s"
+    },
+    {
+      "name": "income_channel_fee",
+      "value": "渠道手续费：¥%s"
+    },
+    {
+      "name": "income_overview_error",
+      "value": "暂时无法加载收入概览"
+    },
+    {
+      "name": "income_monthly_bills",
+      "value": "月度账单"
+    },
+    {
+      "name": "income_received_orders",
+      "value": "收入明细"
+    },
+    {
+      "name": "income_withdraw_history",
+      "value": "提现记录"
+    },
+    {
+      "name": "income_bill_month",
+      "value": "%s 年 %s 月"
+    },
+    {
+      "name": "income_supporter_count",
+      "value": "%s 名发电者"
+    },
+    {
+      "name": "income_no_bills",
+      "value": "暂无月度收入账单"
+    },
+    {
+      "name": "income_no_orders",
+      "value": "暂无收入明细"
+    },
+    {
+      "name": "income_no_withdrawals",
+      "value": "暂无提现记录"
+    },
+    {
+      "name": "income_login_hint",
+      "value": "登录后查看收入和账单"
+    },
+    {
+      "name": "income_supporter",
+      "value": "发电者"
+    },
+    {
+      "name": "income_custom_support",
+      "value": "自选发电"
+    },
+    {
+      "name": "income_support_months",
+      "value": "发电时长：%s 个月"
+    },
+    {
+      "name": "income_plan_price",
+      "value": "方案月价：¥%s"
+    },
+    {
+      "name": "income_message",
+      "value": "留言：%s"
+    },
+    {
+      "name": "income_withdraw_order",
+      "value": "提现订单：%s"
+    },
+    {
+      "name": "income_withdraw_waiting",
+      "value": "等待审核"
+    },
+    {
+      "name": "income_withdraw_success",
+      "value": "已完成"
+    },
+    {
+      "name": "income_withdraw_failed",
+      "value": "提现失败"
+    },
+    {
+      "name": "income_withdraw_bank_error",
+      "value": "银行处理失败"
+    },
+    {
+      "name": "income_withdraw_transferring",
+      "value": "转账中"
+    },
+    {
+      "name": "income_withdraw_unknown",
+      "value": "状态暂不可用"
+    },
+    {
+      "name": "income_plan_unavailable",
+      "value": "方案信息暂不可用"
+    },
+    {
+      "name": "income_settlement_title",
+      "value": "收入什么时候到账"
+    },
+    {
+      "name": "income_settlement_time",
+      "value": "%s 月 %s 日 10:00"
+    },
+    {
+      "name": "income_settlement_year",
+      "value": "%s 年"
+    },
+    {
+      "name": "income_settlement_remaining",
+      "value": "距离结算还有 %s 天 %s 小时"
+    },
+    {
+      "name": "income_settlement_remaining_detail_days",
+      "value": "%s 小时后完成结算"
+    },
+    {
+      "name": "income_settlement_remaining_detail_hours",
+      "value": "%s 分钟后完成结算"
+    },
+    {
+      "name": "income_settlement_due",
+      "value": "即将完成结算"
+    },
+    {
+      "name": "income_settlement_day_unit",
+      "value": "天"
+    },
+    {
+      "name": "income_settlement_hour_unit",
+      "value": "小时"
+    },
+    {
+      "name": "income_settlement_minute_unit",
+      "value": "分钟"
+    },
+    {
+      "name": "income_settlement_window",
+      "value": "正在结算，预计 10:00 前后完成"
+    },
+    {
+      "name": "income_settlement_hint",
+      "value": "爱发电按自然月结算，本月发电收入将在次月 1 日 10:00 前后进入可提现余额。实际入账时间以平台处理进度为准。"
+    },
+    {
+      "name": "income_creator_share_hint",
+      "value": "到手金额按平台 6% 抽成估算；月度账单生成后以官方实际金额为准。"
+    },
+    {
+      "name": "income_pending_amount",
+      "value": "待结算金额：¥%s"
+    },
+    {
+      "name": "income_withdraw_now",
+      "value": "去提现"
+    },
+    {
+      "name": "income_bill_creator_amount",
+      "value": "到手：¥%s"
+    },
+    {
+      "name": "income_bill_total_amount",
+      "value": "发电总额：¥%s"
+    },
+    {
+      "name": "income_today",
+      "value": "今日收入"
+    },
+    {
+      "name": "income_yesterday",
+      "value": "昨日收入"
+    },
+    {
+      "name": "income_last_7_days",
+      "value": "近 7 日收入"
+    },
+    {
+      "name": "income_last_30_days",
+      "value": "近 30 日收入"
+    },
+    {
+      "name": "income_sponsors_7_days",
+      "value": "近 7 日发电人数"
+    },
+    {
+      "name": "income_orders_7_days",
+      "value": "近 7 日发电次数"
+    },
+    {
+      "name": "income_visitors_30_days",
+      "value": "近 30 日访问人数"
+    },
+    {
+      "name": "income_history_visitors",
+      "value": "累计访问人数"
+    },
+    {
+      "name": "income_yuan",
+      "value": "元"
+    },
+    {
+      "name": "income_people",
+      "value": "人"
+    },
+    {
+      "name": "income_times",
+      "value": "次"
+    },
+    {
+      "name": "income_trend_title",
+      "value": "近期收入趋势"
+    },
+    {
+      "name": "income_trend_hint",
+      "value": "最近 14 个有效日"
+    },
+    {
+      "name": "income_stats_title",
+      "value": "收入统计"
+    },
+    {
+      "name": "income_stats_day",
+      "value": "按日"
+    },
+    {
+      "name": "income_stats_week",
+      "value": "按周"
+    },
+    {
+      "name": "income_stats_month",
+      "value": "按月"
+    },
+    {
+      "name": "income_stats_empty",
+      "value": "暂无统计数据"
+    },
+    {
+      "name": "income_stat_visitors",
+      "value": "访问 %s"
+    },
+    {
+      "name": "income_stat_orders",
+      "value": "发电 %s 次"
+    },
+    {
+      "name": "income_stat_supporters",
+      "value": "%s 人"
+    }
+  ]
+}

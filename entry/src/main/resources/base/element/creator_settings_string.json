@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "creator_settings", "value": "创作设置" },
+    { "name": "creator_settings_unavailable", "value": "当前账号尚未开通创作者主页" },
+    { "name": "creator_profile", "value": "创作者资料" },
+    { "name": "creator_doing", "value": "正在创作" },
+    { "name": "creator_detail", "value": "创作介绍" },
+    { "name": "creator_cover_url", "value": "主页封面地址" },
+    { "name": "creator_privacy", "value": "公开范围" },
+    { "name": "creator_public_income", "value": "公开创作收入" },
+    { "name": "creator_public_income_hint", "value": "允许访客在主页查看累计收入" },
+    { "name": "creator_public_sponsor", "value": "公开发电榜" },
+    { "name": "creator_public_sponsor_hint", "value": "允许访客查看赞助者列表" },
+    { "name": "creator_privacy_failed", "value": "公开设置保存失败" }
+  ]
+}

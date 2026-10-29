@@ -1,0 +1,17 @@
+{
+  "string": [
+    { "name": "faq_title", "value": "Quick replies" },
+    { "name": "faq_add", "value": "Add question" },
+    { "name": "faq_edit", "value": "Edit" },
+    { "name": "faq_delete", "value": "Delete" },
+    { "name": "faq_question", "value": "Common question" },
+    { "name": "faq_answer", "value": "Automatic reply" },
+    { "name": "faq_empty", "value": "No quick questions yet" },
+    { "name": "faq_fields_required", "value": "Enter a question and reply" },
+    { "name": "faq_saved", "value": "Quick question saved" },
+    { "name": "faq_save_failed", "value": "Unable to save quick question" },
+    { "name": "faq_delete_confirm", "value": "Delete this quick question?" },
+    { "name": "faq_deleted", "value": "Quick question deleted" },
+    { "name": "faq_delete_failed", "value": "Unable to delete quick question" }
+  ]
+}

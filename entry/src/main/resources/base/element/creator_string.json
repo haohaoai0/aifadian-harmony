@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "creator_goal", "value": "创作目标" },
+    { "name": "creator_goals", "value": "创作目标" },
+    { "name": "creator_goal_amount", "value": "¥%s / ¥%s" },
+    { "name": "creator_albums_all", "value": "全部动态" },
+    { "name": "creator_album", "value": "合集" },
+    { "name": "creator_product", "value": "商品" }
+  ]
+}

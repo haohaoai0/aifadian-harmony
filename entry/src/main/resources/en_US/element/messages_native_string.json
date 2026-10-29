@@ -1,0 +1,11 @@
+{
+  "string": [
+    { "name": "messages_private", "value": "Messages" },
+    { "name": "messages_comments", "value": "Comments" },
+    { "name": "messages_likes", "value": "Likes" },
+    { "name": "messages_comment_hint", "value": "Commented on your content" },
+    { "name": "messages_like_hint", "value": "Liked your content" },
+    { "name": "messages_no_comments", "value": "No comments yet" },
+    { "name": "messages_no_likes", "value": "No likes yet" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "favorites_title", "value": "My favorites" },
+    { "name": "favorites_creators", "value": "Creators" },
+    { "name": "favorites_content", "value": "Content" },
+    { "name": "favorites_creator", "value": "Saved creator" },
+    { "name": "favorites_login", "value": "Sign in to view favorites" },
+    { "name": "favorites_no_creators", "value": "No saved creators" },
+    { "name": "favorites_no_content", "value": "No saved content" },
+    { "name": "favorites_remove", "value": "Remove" },
+    { "name": "favorites_removed", "value": "Removed from favorites" },
+    { "name": "favorites_remove_creator_confirm", "value": "Remove this creator from favorites?" },
+    { "name": "favorites_remove_post_confirm", "value": "Remove this content from favorites?" }
+  ]
+}

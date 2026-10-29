@@ -1,0 +1,72 @@
+{
+  "float": [
+    {
+      "name": "income_page_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "income_card_padding",
+      "value": "18vp"
+    },
+    {
+      "name": "income_card_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "income_field_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "income_content_max_width",
+      "value": "1080vp"
+    },
+    {
+      "name": "income_title_clearance",
+      "value": "76vp"
+    },
+    {
+      "name": "income_bottom_clearance",
+      "value": "24vp"
+    },
+    {
+      "name": "income_label_size",
+      "value": "13fp"
+    },
+    {
+      "name": "income_body_size",
+      "value": "16fp"
+    },
+    {
+      "name": "income_section_size",
+      "value": "21fp"
+    },
+    {
+      "name": "income_metric_size",
+      "value": "21fp"
+    },
+    {
+      "name": "income_balance_size",
+      "value": "34fp"
+    },
+    {
+      "name": "income_metric_height",
+      "value": "94vp"
+    },
+    {
+      "name": "income_tab_height",
+      "value": "52vp"
+    },
+    {
+      "name": "income_settlement_ring_size",
+      "value": "100vp"
+    },
+    {
+      "name": "income_settlement_ring_stroke",
+      "value": "7vp"
+    },
+    {
+      "name": "income_settlement_clock_size",
+      "value": "28fp"
+    }
+  ]
+}

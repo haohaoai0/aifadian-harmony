@@ -1,0 +1,6 @@
+{
+  "string": [
+    { "name": "saved_accounts", "value": "Saved accounts" },
+    { "name": "saved_account_current", "value": "Current" }
+  ]
+}

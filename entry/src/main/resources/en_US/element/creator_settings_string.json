@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "creator_settings", "value": "Creator settings" },
+    { "name": "creator_settings_unavailable", "value": "This account does not have a creator page" },
+    { "name": "creator_profile", "value": "Creator profile" },
+    { "name": "creator_doing", "value": "Currently creating" },
+    { "name": "creator_detail", "value": "Creator introduction" },
+    { "name": "creator_cover_url", "value": "Cover image URL" },
+    { "name": "creator_privacy", "value": "Public visibility" },
+    { "name": "creator_public_income", "value": "Public creator income" },
+    { "name": "creator_public_income_hint", "value": "Let visitors see total income on the profile" },
+    { "name": "creator_public_sponsor", "value": "Public sponsor ranking" },
+    { "name": "creator_public_sponsor_hint", "value": "Let visitors see the supporter list" },
+    { "name": "creator_privacy_failed", "value": "Unable to save visibility" }
+  ]
+}

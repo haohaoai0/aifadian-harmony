@@ -1,0 +1,409 @@
+{
+  "string": [
+    { "name": "image_viewer", "value": "View image" },
+    {
+      "name": "app_name",
+      "value": "Aifadian"
+    },
+    {
+      "name": "module_desc",
+      "value": "Aifadian for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Support the creators you love"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Aifadian"
+    },
+    {
+      "name": "home",
+      "value": "Feed"
+    },
+    {
+      "name": "explore",
+      "value": "Explore"
+    },
+    {
+      "name": "messages",
+      "value": "Messages"
+    },
+    {
+      "name": "profile",
+      "value": "Me"
+    },
+    {
+      "name": "recommended",
+      "value": "For you"
+    },
+    {
+      "name": "following",
+      "value": "Following"
+    },
+    {
+      "name": "hot",
+      "value": "Popular"
+    },
+    {
+      "name": "newest",
+      "value": "New"
+    },
+    {
+      "name": "all_categories",
+      "value": "All categories"
+    },
+    {
+      "name": "creator",
+      "value": "Creator"
+    },
+    {
+      "name": "creators",
+      "value": "Discover creators"
+    },
+    {
+      "name": "search",
+      "value": "Search creators"
+    },
+    {
+      "name": "search_hint",
+      "value": "Name or creative field"
+    },
+    {
+      "name": "support",
+      "value": "Support"
+    },
+    {
+      "name": "support_title",
+      "value": "Keep creativity shining"
+    },
+    {
+      "name": "support_hint",
+      "value": "Stay close to the creators you love"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "appearance",
+      "value": "Appearance"
+    },
+    {
+      "name": "theme",
+      "value": "Display mode"
+    },
+    {
+      "name": "system",
+      "value": "System"
+    },
+    {
+      "name": "light",
+      "value": "Light"
+    },
+    {
+      "name": "dark",
+      "value": "Dark"
+    },
+    {
+      "name": "material",
+      "value": "Immersive material"
+    },
+    {
+      "name": "material_hint",
+      "value": "Use native material on supported systems"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "about_description",
+      "value": "A native Afdian client for HarmonyOS. Some features use Afdian web pages."
+    },
+    {
+      "name": "version",
+      "value": "Version 0.1.0"
+    },
+    {
+      "name": "privacy",
+      "value": "Privacy & session"
+    },
+    {
+      "name": "privacy_hint",
+      "value": "Sessions remain in private app storage. Passwords and tokens are never logged."
+    },
+    {
+      "name": "logout",
+      "value": "Sign out"
+    },
+    {
+      "name": "logout_confirm",
+      "value": "Sign out of this account?"
+    },
+    {
+      "name": "login",
+      "value": "Sign in"
+    },
+    {
+      "name": "login_title",
+      "value": "Welcome to Afdian"
+    },
+    {
+      "name": "login_hint",
+      "value": "Sign in for your feed, messages and sponsorships"
+    },
+    {
+      "name": "account",
+      "value": "Phone or email"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "code",
+      "value": "Verification code"
+    },
+    {
+      "name": "password_login",
+      "value": "Password"
+    },
+    {
+      "name": "code_login",
+      "value": "Code"
+    },
+    {
+      "name": "send_code",
+      "value": "Send code"
+    },
+    {
+      "name": "code_sent",
+      "value": "Code sent"
+    },
+    {
+      "name": "captcha_code",
+      "value": "Image code"
+    },
+    {
+      "name": "captcha_hint",
+      "value": "Complete the image check, then request your verification code again"
+    },
+    {
+      "name": "captcha_required",
+      "value": "Enter the image code first"
+    },
+    {
+      "name": "captcha_refresh",
+      "value": "Refresh image code"
+    },
+    {
+      "name": "web_login",
+      "value": "Sign in on Afdian website"
+    },
+    {
+      "name": "finish_login",
+      "value": "Finish sign-in"
+    },
+    {
+      "name": "terms_accept",
+      "value": "I agree to the Terms and Privacy Policy"
+    },
+    {
+      "name": "terms",
+      "value": "Terms & Privacy Policy"
+    },
+    {
+      "name": "login_required",
+      "value": "Sign in to continue"
+    },
+    {
+      "name": "login_first",
+      "value": "Please sign in first"
+    },
+    {
+      "name": "invalid_login",
+      "value": "Enter your credentials and accept the terms"
+    },
+    {
+      "name": "login_failed",
+      "value": "Sign-in incomplete. Try the website instead."
+    },
+    {
+      "name": "web_session_missing",
+      "value": "Complete website sign-in first"
+    },
+    {
+      "name": "loading",
+      "value": "Loading"
+    },
+    {
+      "name": "empty",
+      "value": "Nothing here yet"
+    },
+    {
+      "name": "network_error",
+      "value": "Unable to load. Check your connection and retry."
+    },
+    {
+      "name": "retry",
+      "value": "Retry"
+    },
+    {
+      "name": "refresh",
+      "value": "Refresh"
+    },
+    {
+      "name": "load_more",
+      "value": "Load more"
+    },
+    {
+      "name": "no_more",
+      "value": "You’re all caught up"
+    },
+    {
+      "name": "post_detail",
+      "value": "Post"
+    },
+    {
+      "name": "comments",
+      "value": "Comments"
+    },
+    {
+      "name": "like",
+      "value": "Like"
+    },
+    {
+      "name": "read_full",
+      "value": "Read full post"
+    },
+    {
+      "name": "locked",
+      "value": "Support this creator to unlock this post"
+    },
+    {
+      "name": "website",
+      "value": "Afdian website"
+    },
+    {
+      "name": "open_website",
+      "value": "View on Afdian"
+    },
+    {
+      "name": "external_link",
+      "value": "Open external app?"
+    },
+    {
+      "name": "external_hint",
+      "value": "This link will open through the system."
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "blocked_url",
+      "value": "Unsafe link blocked"
+    },
+    {
+      "name": "publish",
+      "value": "Create a post"
+    },
+    {
+      "name": "sponsoring",
+      "value": "My sponsorships"
+    },
+    {
+      "name": "income",
+      "value": "Creator income"
+    },
+    {
+      "name": "bookmarks",
+      "value": "Bookmarks"
+    },
+    {
+      "name": "account_settings",
+      "value": "Account settings"
+    },
+    {
+      "name": "notification",
+      "value": "Comments & likes"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "plans",
+      "value": "Support plans"
+    },
+    {
+      "name": "details",
+      "value": "About this creator"
+    },
+    {
+      "name": "copy_link",
+      "value": "Copy link"
+    },
+    {
+      "name": "copied",
+      "value": "Link copied"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "report_error",
+      "value": "The service is temporarily unavailable"
+    },
+    {
+      "name": "anonymous",
+      "value": "Guest"
+    },
+    {
+      "name": "native_note",
+      "value": "Support what you love. Discover something new."
+    },
+    {
+      "name": "account_session_expired",
+      "value": "Session expired. Please sign in again."
+    },
+    {
+      "name": "official_page",
+      "value": "Afdian page"
+    },
+    {
+      "name": "login_success",
+      "value": "Signed in"
+    },
+    {
+      "name": "unread",
+      "value": "Unread messages"
+    },
+    {
+      "name": "browser_failed",
+      "value": "Page failed to load"
+    },
+    {
+      "name": "search_local_hint",
+      "value": "Filter loaded creators"
+    }
+  ]
+}

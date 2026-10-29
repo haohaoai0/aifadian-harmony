@@ -1,0 +1,21 @@
+{
+  "string": [
+    { "name": "auth_name", "value": "Display name" },
+    { "name": "auth_fields_required", "value": "Complete every field, enter the code, and accept the terms" },
+    { "name": "auth_password_invalid", "value": "Use at least 6 characters and enter the same password twice" },
+    { "name": "auth_code_invalid", "value": "The code is invalid or expired" },
+    { "name": "auth_reset_success", "value": "Password reset and signed in" },
+    { "name": "auth_reset_failed", "value": "Unable to reset the password" },
+    { "name": "register_action", "value": "Create account" },
+    { "name": "register_title", "value": "Create an Afdian account" },
+    { "name": "register_hint", "value": "Register with a phone number or email. You will be signed in automatically." },
+    { "name": "register_working", "value": "Creating account" },
+    { "name": "register_failed", "value": "Registration was not completed" },
+    { "name": "forgot_password", "value": "Forgot password" },
+    { "name": "forgot_title", "value": "Reset password" },
+    { "name": "forgot_hint", "value": "Verify your phone number or email, then choose a new password" },
+    { "name": "forgot_check", "value": "Verify" },
+    { "name": "forgot_password_hint", "value": "Choose a new sign-in password" },
+    { "name": "forgot_reset", "value": "Reset and sign in" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "route_title", "value": "Preferred route" },
+    { "name": "route_hint", "value": "Other official domains are tried when a route is unavailable" },
+    { "name": "route_ifdian", "value": "ifdian.net" },
+    { "name": "route_afdian", "value": "afdian.com" },
+    { "name": "route_www", "value": "www.afdian.com" }
+  ]
+}

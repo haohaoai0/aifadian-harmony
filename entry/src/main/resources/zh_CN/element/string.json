@@ -1,0 +1,409 @@
+{
+  "string": [
+    { "name": "image_viewer", "value": "查看图片" },
+    {
+      "name": "app_name",
+      "value": "爱发电"
+    },
+    {
+      "name": "module_desc",
+      "value": "爱发电鸿蒙客户端"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "支持喜欢的创作"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "爱发电"
+    },
+    {
+      "name": "home",
+      "value": "动态"
+    },
+    {
+      "name": "explore",
+      "value": "发现"
+    },
+    {
+      "name": "messages",
+      "value": "消息"
+    },
+    {
+      "name": "profile",
+      "value": "我的"
+    },
+    {
+      "name": "recommended",
+      "value": "推荐"
+    },
+    {
+      "name": "following",
+      "value": "已关注"
+    },
+    {
+      "name": "hot",
+      "value": "热门"
+    },
+    {
+      "name": "newest",
+      "value": "最新"
+    },
+    {
+      "name": "all_categories",
+      "value": "全部分类"
+    },
+    {
+      "name": "creator",
+      "value": "创作者"
+    },
+    {
+      "name": "creators",
+      "value": "发现创作者"
+    },
+    {
+      "name": "search",
+      "value": "搜索创作者"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索名称、创作领域"
+    },
+    {
+      "name": "support",
+      "value": "支持创作"
+    },
+    {
+      "name": "support_title",
+      "value": "让喜欢的创作继续发光"
+    },
+    {
+      "name": "support_hint",
+      "value": "与你喜欢的创作者保持连接"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "appearance",
+      "value": "外观"
+    },
+    {
+      "name": "theme",
+      "value": "显示模式"
+    },
+    {
+      "name": "system",
+      "value": "跟随系统"
+    },
+    {
+      "name": "light",
+      "value": "浅色"
+    },
+    {
+      "name": "dark",
+      "value": "深色"
+    },
+    {
+      "name": "material",
+      "value": "沉浸光感"
+    },
+    {
+      "name": "material_hint",
+      "value": "在支持的系统上使用原生悬浮材质"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "about_description",
+      "value": "为 HarmonyOS 打造的原生爱发电客户端。部分功能由爱发电站内网页提供。"
+    },
+    {
+      "name": "version",
+      "value": "版本 0.1.0"
+    },
+    {
+      "name": "privacy",
+      "value": "隐私与会话"
+    },
+    {
+      "name": "privacy_hint",
+      "value": "账号会话仅保存在本应用私有存储中，不记录密码和令牌日志。"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "logout_confirm",
+      "value": "退出当前账号？"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "login_title",
+      "value": "欢迎来到爱发电"
+    },
+    {
+      "name": "login_hint",
+      "value": "登录后查看关注动态、消息和赞助记录"
+    },
+    {
+      "name": "account",
+      "value": "手机号码或邮箱"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "code",
+      "value": "验证码"
+    },
+    {
+      "name": "password_login",
+      "value": "密码登录"
+    },
+    {
+      "name": "code_login",
+      "value": "验证码登录"
+    },
+    {
+      "name": "send_code",
+      "value": "获取验证码"
+    },
+    {
+      "name": "code_sent",
+      "value": "验证码已发送"
+    },
+    {
+      "name": "captcha_code",
+      "value": "图形验证码"
+    },
+    {
+      "name": "captcha_hint",
+      "value": "需要完成一次人机验证，输入图片中的字符后再获取验证码"
+    },
+    {
+      "name": "captcha_required",
+      "value": "请先填写图形验证码"
+    },
+    {
+      "name": "captcha_refresh",
+      "value": "更换图形验证码"
+    },
+    {
+      "name": "web_login",
+      "value": "使用站内网页登录"
+    },
+    {
+      "name": "finish_login",
+      "value": "已登录，返回应用"
+    },
+    {
+      "name": "terms_accept",
+      "value": "我已阅读并同意服务协议和隐私政策"
+    },
+    {
+      "name": "terms",
+      "value": "服务协议与隐私政策"
+    },
+    {
+      "name": "login_required",
+      "value": "登录后查看"
+    },
+    {
+      "name": "login_first",
+      "value": "请先登录账号"
+    },
+    {
+      "name": "invalid_login",
+      "value": "请填写账号和密码或验证码，并同意协议"
+    },
+    {
+      "name": "login_failed",
+      "value": "登录未完成，可使用站内网页登录"
+    },
+    {
+      "name": "web_session_missing",
+      "value": "尚未读取到登录会话，请先完成网页登录"
+    },
+    {
+      "name": "loading",
+      "value": "正在加载"
+    },
+    {
+      "name": "empty",
+      "value": "这里还没有内容"
+    },
+    {
+      "name": "network_error",
+      "value": "加载失败，请检查网络后重试"
+    },
+    {
+      "name": "retry",
+      "value": "重试"
+    },
+    {
+      "name": "refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "load_more",
+      "value": "加载更多"
+    },
+    {
+      "name": "no_more",
+      "value": "已经到底了"
+    },
+    {
+      "name": "post_detail",
+      "value": "动态详情"
+    },
+    {
+      "name": "comments",
+      "value": "评论"
+    },
+    {
+      "name": "like",
+      "value": "喜欢"
+    },
+    {
+      "name": "read_full",
+      "value": "查看完整内容"
+    },
+    {
+      "name": "locked",
+      "value": "此内容需要支持创作者后查看"
+    },
+    {
+      "name": "website",
+      "value": "站内页面"
+    },
+    {
+      "name": "open_website",
+      "value": "在站内查看"
+    },
+    {
+      "name": "external_link",
+      "value": "打开外部应用？"
+    },
+    {
+      "name": "external_hint",
+      "value": "此链接将交由系统打开。"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "blocked_url",
+      "value": "已阻止不安全的链接"
+    },
+    {
+      "name": "publish",
+      "value": "发布动态"
+    },
+    {
+      "name": "sponsoring",
+      "value": "我的赞助"
+    },
+    {
+      "name": "income",
+      "value": "创作收入"
+    },
+    {
+      "name": "bookmarks",
+      "value": "我的收藏"
+    },
+    {
+      "name": "account_settings",
+      "value": "账号管理"
+    },
+    {
+      "name": "notification",
+      "value": "评论和喜欢"
+    },
+    {
+      "name": "audio",
+      "value": "音频"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "plans",
+      "value": "支持方案"
+    },
+    {
+      "name": "details",
+      "value": "创作介绍"
+    },
+    {
+      "name": "copy_link",
+      "value": "复制链接"
+    },
+    {
+      "name": "copied",
+      "value": "链接已复制"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "report_error",
+      "value": "服务暂时不可用，请稍后重试"
+    },
+    {
+      "name": "anonymous",
+      "value": "未登录"
+    },
+    {
+      "name": "native_note",
+      "value": "支持喜欢的创作，也发现新的灵感。"
+    },
+    {
+      "name": "account_session_expired",
+      "value": "会话已失效，请重新登录"
+    },
+    {
+      "name": "official_page",
+      "value": "爱发电站内页面"
+    },
+    {
+      "name": "login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "unread",
+      "value": "未读消息"
+    },
+    {
+      "name": "browser_failed",
+      "value": "页面加载失败"
+    },
+    {
+      "name": "search_local_hint",
+      "value": "筛选已加载的创作者"
+    }
+  ]
+}

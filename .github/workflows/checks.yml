@@ -1,0 +1,24 @@
+name: Offline checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+      - name: Check resources and project configuration
+        run: python3 scripts/validate_project.py
+      - name: Audit public files
+        run: python3 scripts/audit_public.py
+      - name: Run offline tests
+        run: node --test tests/*.test.mjs

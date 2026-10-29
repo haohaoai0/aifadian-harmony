@@ -1,0 +1,20 @@
+aifadian-harmony
+Copyright 2026 aifadian-harmony contributors
+
+The source code is distributed under the Apache License, Version 2.0.
+
+References and acknowledgements:
+- afdian-compose by hrsthrt74 (Apache-2.0)
+  https://github.com/hrsthrt74/afdian-compose
+  Referenced for feature organization, interaction and documentation.
+- HarmonyX
+  https://github.com/haohaoai0/HarmonyX
+  Referenced for native HDS navigation, materials and window adaptation.
+
+HarmonyOS project template files retain their existing notices, including:
+Copyright (c) 2026 Huawei Device Co., Ltd.
+
+Afdian names, logos and service content remain the property of their
+respective owners. This project is an independent third-party client.
+The source license does not grant rights to third-party trademarks or
+platform content. No endorsement by the referenced projects or Afdian is implied.

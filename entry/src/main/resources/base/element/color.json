@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "canvas",
+      "value": "#F7F7FA"
+    },
+    {
+      "name": "surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text",
+      "value": "#20202A"
+    },
+    {
+      "name": "secondary",
+      "value": "#858291"
+    },
+    {
+      "name": "accent",
+      "value": "#946CE6"
+    },
+    {
+      "name": "accent_soft",
+      "value": "#EDE5FF"
+    },
+    {
+      "name": "separator",
+      "value": "#EFEFF4"
+    },
+    {
+      "name": "danger",
+      "value": "#C34859"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#F7F7FA"
+    },
+    {
+      "name": "message_sent",
+      "value": "#EDE4FE"
+    },
+    {
+      "name": "filter_blue",
+      "value": "#268DCBFF"
+    },
+    {
+      "name": "filter_pink",
+      "value": "#26FF85B8"
+    },
+    {
+      "name": "filter_green",
+      "value": "#2683D8A4"
+    },
+    {
+      "name": "filter_orange",
+      "value": "#26FFB45C"
+    },
+    {
+      "name": "filter_violet",
+      "value": "#33B69AF5"
+    },
+    {
+      "name": "tool_green",
+      "value": "#54C7B1"
+    },
+    {
+      "name": "tool_blue",
+      "value": "#75A8F6"
+    },
+    {
+      "name": "tool_pink",
+      "value": "#DA7FB3"
+    },
+    {
+      "name": "tool_orange",
+      "value": "#E39A55"
+    }
+  ]
+}

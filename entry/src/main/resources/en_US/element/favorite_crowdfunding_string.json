@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "favorites_crowdfunding", "value": "Crowdfunding" },
+    { "name": "favorites_crowdfunding_count", "value": "%s supporters" },
+    { "name": "favorites_crowdfunding_income", "value": "Raised ¥%s" },
+    { "name": "favorites_crowdfunding_goal", "value": "Goal ¥%s" },
+    { "name": "favorites_no_crowdfunding", "value": "No saved crowdfunding projects" }
+  ]
+}

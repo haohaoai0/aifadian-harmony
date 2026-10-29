@@ -1,0 +1,22 @@
+{
+  "string": [
+    { "name": "sponsoring_title", "value": "我的赞助" },
+    { "name": "sponsoring_current", "value": "当前支持" },
+    { "name": "sponsoring_expired", "value": "已失效" },
+    { "name": "sponsoring_empty", "value": "还没有赞助记录" },
+    { "name": "sponsoring_login", "value": "登录后查看赞助记录" },
+    { "name": "sponsoring_supporter", "value": "支持的创作者" },
+    { "name": "sponsoring_message", "value": "私信" },
+    { "name": "sponsoring_profile", "value": "查看主页" },
+    { "name": "sponsoring_custom", "value": "自选赞助" },
+    { "name": "sponsoring_month", "value": "月" },
+    { "name": "sponsoring_quarter", "value": "3 个月" },
+    { "name": "sponsoring_year", "value": "年" },
+    { "name": "sponsoring_permanent", "value": "长期支持" },
+    { "name": "sponsoring_expires", "value": "有效期至 %s" },
+    { "name": "sponsoring_next", "value": "下次结算：%s" },
+    { "name": "sponsoring_awaiting", "value": "正在等待服务端同步赞助方案" },
+    { "name": "sponsoring_ticket_detail", "value": "购票详情" },
+    { "name": "sponsoring_detail", "value": "详情" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "string": [
+    { "name": "saved_accounts", "value": "已保存账号" },
+    { "name": "saved_account_current", "value": "当前" }
+  ]
+}

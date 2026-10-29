@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "explore_creating", "value": "正在创作 " },
+    { "name": "explore_month_unit", "value": "月" },
+    { "name": "explore_item_unit", "value": "件" },
+    { "name": "explore_price_start", "value": "起" },
+    { "name": "explore_view_plan", "value": "查看方案" }
+  ]
+}

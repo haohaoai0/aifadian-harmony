@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "share", "value": "Share" },
+    { "name": "share_description", "value": "A link from Afdian" },
+    { "name": "share_failed", "value": "Unable to share. Try again later." }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "string": [
+    { "name": "faq_title", "value": "自动回复菜单" },
+    { "name": "faq_add", "value": "新增问题" },
+    { "name": "faq_edit", "value": "编辑" },
+    { "name": "faq_delete", "value": "删除" },
+    { "name": "faq_question", "value": "常用问题" },
+    { "name": "faq_answer", "value": "自动回复内容" },
+    { "name": "faq_empty", "value": "还没有快捷问题" },
+    { "name": "faq_fields_required", "value": "请填写问题和回复内容" },
+    { "name": "faq_saved", "value": "快捷问题已保存" },
+    { "name": "faq_save_failed", "value": "快捷问题保存失败" },
+    { "name": "faq_delete_confirm", "value": "删除这条快捷问题？" },
+    { "name": "faq_deleted", "value": "快捷问题已删除" },
+    { "name": "faq_delete_failed", "value": "快捷问题删除失败" }
+  ]
+}

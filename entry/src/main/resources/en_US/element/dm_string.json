@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "dm_private",
+      "value": "Message"
+    },
+    {
+      "name": "dm_input",
+      "value": "Write a message"
+    },
+    {
+      "name": "dm_send",
+      "value": "Send"
+    },
+    {
+      "name": "dm_sending",
+      "value": "Sending"
+    },
+    {
+      "name": "dm_history",
+      "value": "Earlier messages"
+    },
+    {
+      "name": "dm_loading_history",
+      "value": "Loading"
+    },
+    {
+      "name": "dm_empty",
+      "value": "No messages yet. Start a conversation."
+    },
+    {
+      "name": "dm_order_message",
+      "value": "Order message"
+    },
+    {
+      "name": "dm_view_detail",
+      "value": "View details"
+    },
+    {
+      "name": "dm_send_unknown",
+      "value": "Send receipt unavailable"
+    },
+    {
+      "name": "dm_send_check",
+      "value": "Check the conversation before retrying to avoid sending twice."
+    }
+  ]
+}

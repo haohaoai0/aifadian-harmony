@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "comments_count", "value": "Comments %s" },
+    { "name": "comments_empty", "value": "No comments yet" },
+    { "name": "comments_author", "value": "Author" },
+    { "name": "comments_reply", "value": "Reply" },
+    { "name": "comments_delete", "value": "Delete" },
+    { "name": "comments_delete_confirm", "value": "Delete this comment?" },
+    { "name": "comments_replying", "value": "Replying to %s" },
+    { "name": "comments_placeholder", "value": "Write a comment" },
+    { "name": "comments_publish", "value": "Post comment" },
+    { "name": "comments_publishing", "value": "Posting" },
+    { "name": "comments_publish_failed", "value": "Unable to post comment" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    { "name": "profile_home_tab", "value": "主页" },
+    { "name": "profile_posts_tab", "value": "动态" },
+    { "name": "profile_sponsors_tab", "value": "发电榜" },
+    { "name": "profile_shop_tab", "value": "电铺" },
+    { "name": "profile_all_filter", "value": "全部" },
+    { "name": "profile_public_filter", "value": "公开" },
+    { "name": "profile_no_intro", "value": "暂时没有简介" },
+    { "name": "profile_no_posts", "value": "暂时没有动态" },
+    { "name": "profile_no_sponsors", "value": "暂时没有发电榜数据" },
+    { "name": "profile_no_plans", "value": "暂时没有发电方案或商品" },
+    { "name": "profile_view_plans", "value": "查看发电方案" },
+    { "name": "support_creator", "value": "为TA发电" }
+  ]
+}

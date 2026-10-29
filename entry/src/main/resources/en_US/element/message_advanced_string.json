@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "dm_faq_short", "value": "FAQ" },
+    { "name": "dm_faq_send_failed", "value": "Unable to send the quick question" },
+    { "name": "messages_mark_all_read", "value": "Mark all read" },
+    { "name": "messages_mark_all_confirm", "value": "Mark every unread private message as read?" },
+    { "name": "messages_mark_all_failed", "value": "Some conversations could not be marked as read" },
+    { "name": "messages_unread_count", "value": "%s unread" }
+  ]
+}

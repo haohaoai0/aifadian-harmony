@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "dm_private",
+      "value": "私信"
+    },
+    {
+      "name": "dm_input",
+      "value": "输入消息"
+    },
+    {
+      "name": "dm_send",
+      "value": "发送"
+    },
+    {
+      "name": "dm_sending",
+      "value": "发送中"
+    },
+    {
+      "name": "dm_history",
+      "value": "查看更早消息"
+    },
+    {
+      "name": "dm_loading_history",
+      "value": "正在加载"
+    },
+    {
+      "name": "dm_empty",
+      "value": "还没有消息，发条私信开始交流吧"
+    },
+    {
+      "name": "dm_order_message",
+      "value": "订单消息"
+    },
+    {
+      "name": "dm_view_detail",
+      "value": "查看详情"
+    },
+    {
+      "name": "dm_send_unknown",
+      "value": "暂未取得发送回执"
+    },
+    {
+      "name": "dm_send_check",
+      "value": "请先核对会话中是否已收到，避免重复发送。"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "string": [
+    { "name": "messages_delete", "value": "删除" },
+    { "name": "messages_delete_confirm", "value": "删除这个会话？" }
+  ]
+}

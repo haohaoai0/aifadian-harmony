@@ -1,0 +1,12 @@
+{
+  "string": [
+    { "name": "account_third_party", "value": "第三方账号" },
+    { "name": "account_wechat", "value": "微信" },
+    { "name": "account_qq", "value": "QQ" },
+    { "name": "account_google", "value": "Google" },
+    { "name": "account_unbind", "value": "解绑" },
+    { "name": "account_unbind_confirm", "value": "解绑 %s？" },
+    { "name": "account_unbind_success", "value": "已解除绑定" },
+    { "name": "account_unbind_failed", "value": "解绑失败" }
+  ]
+}

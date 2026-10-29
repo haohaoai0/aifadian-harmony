@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "comments_count", "value": "评论 %s" },
+    { "name": "comments_empty", "value": "还没有评论" },
+    { "name": "comments_author", "value": "作者" },
+    { "name": "comments_reply", "value": "回复" },
+    { "name": "comments_delete", "value": "删除" },
+    { "name": "comments_delete_confirm", "value": "删除这条评论？" },
+    { "name": "comments_replying", "value": "回复 %s" },
+    { "name": "comments_placeholder", "value": "写下你的评论" },
+    { "name": "comments_publish", "value": "发布评论" },
+    { "name": "comments_publishing", "value": "正在发布" },
+    { "name": "comments_publish_failed", "value": "评论发布失败" }
+  ]
+}

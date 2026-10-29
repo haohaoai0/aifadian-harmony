@@ -1,0 +1,12 @@
+{
+  "string": [
+    { "name": "account_third_party", "value": "Connected accounts" },
+    { "name": "account_wechat", "value": "WeChat" },
+    { "name": "account_qq", "value": "QQ" },
+    { "name": "account_google", "value": "Google" },
+    { "name": "account_unbind", "value": "Disconnect" },
+    { "name": "account_unbind_confirm", "value": "Disconnect %s?" },
+    { "name": "account_unbind_success", "value": "Account disconnected" },
+    { "name": "account_unbind_failed", "value": "Unable to disconnect account" }
+  ]
+}

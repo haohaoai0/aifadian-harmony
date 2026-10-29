@@ -1,0 +1,22 @@
+{
+  "string": [
+    { "name": "sponsoring_title", "value": "My sponsorships" },
+    { "name": "sponsoring_current", "value": "Active support" },
+    { "name": "sponsoring_expired", "value": "Expired" },
+    { "name": "sponsoring_empty", "value": "No sponsorships yet" },
+    { "name": "sponsoring_login", "value": "Sign in to view your sponsorships" },
+    { "name": "sponsoring_supporter", "value": "Creator you support" },
+    { "name": "sponsoring_message", "value": "Message" },
+    { "name": "sponsoring_profile", "value": "View profile" },
+    { "name": "sponsoring_custom", "value": "Custom support" },
+    { "name": "sponsoring_month", "value": "month" },
+    { "name": "sponsoring_quarter", "value": "3 months" },
+    { "name": "sponsoring_year", "value": "year" },
+    { "name": "sponsoring_permanent", "value": "Ongoing" },
+    { "name": "sponsoring_expires", "value": "Valid until %s" },
+    { "name": "sponsoring_next", "value": "Next renewal: %s" },
+    { "name": "sponsoring_awaiting", "value": "Waiting for the sponsorship plan to sync" },
+    { "name": "sponsoring_ticket_detail", "value": "Ticket details" },
+    { "name": "sponsoring_detail", "value": "Details" }
+  ]
+}

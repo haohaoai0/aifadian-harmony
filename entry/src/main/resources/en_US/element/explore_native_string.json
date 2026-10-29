@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "explore_creating", "value": "Creating " },
+    { "name": "explore_month_unit", "value": "month" },
+    { "name": "explore_item_unit", "value": "item" },
+    { "name": "explore_price_start", "value": "from" },
+    { "name": "explore_view_plan", "value": "View plans" }
+  ]
+}

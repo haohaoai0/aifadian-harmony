@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "dm_faq_short", "value": "FAQ" },
+    { "name": "dm_faq_send_failed", "value": "快捷提问发送失败" },
+    { "name": "messages_mark_all_read", "value": "全部标为已读" },
+    { "name": "messages_mark_all_confirm", "value": "将全部未读私信标为已读？" },
+    { "name": "messages_mark_all_failed", "value": "部分会话未能标为已读" },
+    { "name": "messages_unread_count", "value": "%s 条未读" }
+  ]
+}
